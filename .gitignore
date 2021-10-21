@@ -1,3 +1,3 @@
-.vscode
-main
-build/
+lib/*
+build/*
+!.gitkeep
